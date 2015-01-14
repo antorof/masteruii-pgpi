@@ -7,7 +7,7 @@ Hay muchos elementos elementos que ayudan a la seguridad de una red, los cuales 
 #### Prevención
 +  Seguridad física
 +  Criptografía (protocolos seguros [WPA, IPSec...])
-+  Control del acceso ([Radius](http://en.wikipedia.org/wiki/RADIUS), VPN)
++  Control del acceso ([RADIUS](http://en.wikipedia.org/wiki/RADIUS), VPN)
 +  Seguridad perimetral (Firewall, NAT)
 
 #### Deteción
@@ -20,5 +20,10 @@ Hay muchos elementos elementos que ayudan a la seguridad de una red, los cuales 
 +  Incident Response Teams
 
 ## ¿Es realmente necesario disponer de medidas de seguridad en la red de una empresa?
+
+Es muy importante ya que las brechas en la seguridad pueden tener muchas consecuencias en la empresa.
+
+Si hay un robo de información -por ejemplo-, aparte de comprometer los datos de los clientes, se pierde en imagen y 
+en credibilidad. Además, todo esto hace que la empresa pierda dinero.
 
 ## Es posible que las medidas de seguridad convencionales no cubran todos los posibles escenarios de riesgos actuales. ¿Considerarías incorporar algún esquema experimental a la red? ¿Cuál?
