@@ -7,7 +7,7 @@ Hay muchos elementos elementos que ayudan a la seguridad de una red, los cuales 
 #### Prevención
 +  Seguridad física
 +  Criptografía (protocolos seguros [WPA, IPSec...])
-+  Control del acceso ((Radius)[http://en.wikipedia.org/wiki/RADIUS], VPN)
++  Control del acceso ([Radius](http://en.wikipedia.org/wiki/RADIUS), VPN)
 +  Seguridad perimetral (Firewall, NAT)
 
 ## ¿Es realmente necesario disponer de medidas de seguridad en la red de una empresa?
