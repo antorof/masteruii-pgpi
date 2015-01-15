@@ -38,7 +38,7 @@ problema de que, al tener que manejar un conjunto de datos muy grande, se tarda 
 análisis.
 
 Además, una buena visualización de los distintos datos de los que se dispongan puede ayudar a una persona
-a identificar más rapidamente los problemas que puede haber.
+a identificar más rápidamente los problemas que puede haber.
 
 Sin embargo, antes de incorporar alguno de estos esquemas y métodos seguramente trataría de investigar más a 
 fondo acerca de las ventajas e inconvenientes de cada uno.
